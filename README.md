@@ -1,4 +1,4 @@
-# python_for_finance
+# python_for_finance_2nd_ed
 
   Here I attempt to replicate the output stemming from the author's code in the recently released second edition of the fantastic book "Python for Finance" by  Yves Hilpisch.  I originally used the first edition years back, but a large amount of the code had to be updated or changed, as the examples used modules/libraries that were often deprecated or experiencing issues due to unresolved problems in an API or something else on which they relied.  For some reason, I prefer to not create a separate environment to ensure the versions are equal; for the most part, I think this is because when I am forced to update older or non-working code, I naturally learn more about the programming language as a whole.  That being said, the ONLY reason there were any issues with replication was because I was reading and studying a book written many years before I discovered it; let me be clear that it was in NO WAY the author's fault, he has written many great books on this subject and provided an increadible amount of detailed examples that surely have helped plenty of people, myself included.  
  
